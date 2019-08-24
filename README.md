@@ -1,4 +1,4 @@
-# Prediction of Engagement to Sales Emails
+# Prediction of Customer Engagement with Sales Emails
 Prediction of engagement (opening, replying) with sales emails by recipients based on email content, time of sending, role etc.
 
 Description
